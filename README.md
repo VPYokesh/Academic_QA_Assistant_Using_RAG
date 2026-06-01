@@ -1,4 +1,4 @@
-# 🎓 Academic QA Assistant
+# 🎓 Academic QA Assistant Using RAG
 
 > A production-quality **Retrieval-Augmented Generation (RAG)** question-answering system built for academic research. Upload your study documents, ask questions in natural language, and get grounded, cited answers — complete with hallucination detection, cross-encoder re-ranking, and a polished Streamlit UI.
 
